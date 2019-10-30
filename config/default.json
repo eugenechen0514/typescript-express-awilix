@@ -1,0 +1,10 @@
+{
+  "server": {
+    "port": 3000,
+    "version": "1",
+    "cors": {
+      "enable": false,
+      "origin": "http://localhost:3000"
+    }
+  }
+}

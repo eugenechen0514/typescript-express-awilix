@@ -1,0 +1,8 @@
+{
+  "server": {
+    "cors": {
+      "enable": true
+    },
+    "version": "1-beta"
+  }
+}
